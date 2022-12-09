@@ -1,6 +1,6 @@
 ## Hello 👋🏼, I&apos;m Agustin Bianchi
 
-> A front-end developer based in Argentina, Buenos Aires with one dream, become Software Engineer. Nowadays, I&apos;m learning and focusing in <a href="https://nextjs.org/" _target="_BLANK" >Next.js<a/> with <a href="https://chakra-ui.com/" _target="_BLANK">Chakra UI<a/>. I was involved in development of a <a href="https://fivem.net/" _target="_BLANK">FiveM<a/> (GTA V Framework) server called InfamesRP.
+> A front-end developer based in Argentina, Buenos Aires with one dream, become Software Engineer. Nowadays, I&apos;m learning and focusing in <a href="https://nextjs.org/" target="_blank" >Next.js<a/> with <a href="https://chakra-ui.com/" target="_blank">Chakra UI<a/>. I was involved in development of a <a href="https://fivem.net/" target="_blank">FiveM<a/> (GTA V Framework) server called InfamesRP.
 
 ### Skills
 
@@ -22,7 +22,7 @@ export default function Message() {
   
 ```sql
 SELECT * FROM `skills`
-WHERE name > "SQL"
+WHERE name = "SQL"
 ```
 
 ###### I have to tell you? Also HTML & CSS
