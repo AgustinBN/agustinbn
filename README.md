@@ -19,6 +19,11 @@ export default function Message() {
   )
 }
 ```
+  
+```sql
+SELECT * FROM `skills`
+WHERE name > "SQL"
+```
 
 ###### I have to tell you? Also HTML & CSS
 
