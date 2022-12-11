@@ -29,7 +29,7 @@ WHERE name = "SQL"
 
 ### Contact
 
-* Portfolio: <a href="agustinbn.vercel.app"> agustinbn.vercel.app</a>
+* Portfolio: <a href="https://agustinbn.vercel.app"> agustinbn.vercel.app</a>
 * Email: bianchiagus6@gmail.com
 * Local Time: GMT -3
 
