@@ -20,8 +20,6 @@ export default function Message() {
 }
 ```
 
-###### I have to tell you? Also HTML & CSS
-
 ### Contact
 
 * Portfolio: [Click Here](https://agustinbn.vercel.app)
