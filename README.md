@@ -24,8 +24,8 @@ export default function Message() {
 
 ### Contact
 
-- Portfolio: [Click Here.](agustinbn.vercel.app)
-- Email: bianchiagus6@gmail.com
-- Local Time: GMT -3
+* Portfolio: <a href="https://agustinbn.vercel.app"> agustinbn.vercel.app</a>
+* Email: bianchiagus6@gmail.com
+* Local Time: GMT -3
 
 [Twitter](https://twitter.com/agustinbn\_)
