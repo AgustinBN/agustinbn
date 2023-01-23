@@ -1,6 +1,6 @@
 ## Hello 👋🏼, I&apos;m Agustin Bianchi
 
-> A front-end developer based in Argentina, Buenos Aires with one dream, become Software Engineer. Nowadays, I&apos;m learning and focusing in <a href="https://es.reactjs.org/" target="_blank" >React<a/> and <a href="https://reactnative.dev/" target="_blank">React Native<a/>. I was involved in development of a <a href="https://fivem.net/" target="_blank">FiveM<a/> (GTA V Framework) server called InfamesRP.
+> A front-end developer based in Argentina, Buenos Aires with one dream, become Software Engineer. Nowadays, I&apos;m learning and focusing in [React](https://es.reactjs.org/) and [React Native](https://reactnative.dev/). I was involved in development of a [FiveM](https://fivem.net/) server called InfamesRP.
 
 ### Skills
 
@@ -24,7 +24,7 @@ export default function Message() {
 
 ### Contact
 
-* Portfolio: <a href="https://agustinbn.vercel.app"> agustinbn.vercel.app</a>
+* Portfolio: [Click Here](https://agustinbn.vercel.app)
 * Email: bianchiagus6@gmail.com
 * Local Time: GMT -3
 
