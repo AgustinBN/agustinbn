@@ -1,6 +1,6 @@
 ## Hello 👋🏼, I&apos;m Agustin Bianchi
 
-> A front-end developer based in Argentina, Buenos Aires with one dream, become Software Engineer. Nowadays, I&apos;m learning and focusing in <a href="https://nextjs.org/" target="_blank" >Next.js<a/> with <a href="https://chakra-ui.com/" target="_blank">Chakra UI<a/>. I was involved in development of a <a href="https://fivem.net/" target="_blank">FiveM<a/> (GTA V Framework) server called InfamesRP.
+> A front-end developer based in Argentina, Buenos Aires with one dream, become Software Engineer. Nowadays, I&apos;m learning and focusing in <a href="https://es.reactjs.org/" target="_blank" >React<a/> and <a href="https://reactnative.dev/" target="_blank">React Native<a/>. I was involved in development of a <a href="https://fivem.net/" target="_blank">FiveM<a/> (GTA V Framework) server called InfamesRP.
 
 ### Skills
 
@@ -19,18 +19,13 @@ export default function Message() {
   )
 }
 ```
-  
-```sql
-SELECT * FROM `skills`
-WHERE name = "SQL"
-```
 
 ###### I have to tell you? Also HTML & CSS
 
 ### Contact
 
-* Portfolio: Soon. 🔜
-* Email: bianchiagus6@gmail.com
-* Local Time: GMT -3
+- Portfolio: [Click Here.](agustinbn.vercel.app)
+- Email: bianchiagus6@gmail.com
+- Local Time: GMT -3
 
-[![Twitter](https://img.shields.io/twitter/follow/agustinbn_?logo=twitter&logoColor=white&color=crimson&label=Twitter&style=for-the-badge)](https://twitter.com/agustinbn_)
+[Twitter](https://twitter.com/agustinbn\_)
