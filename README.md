@@ -19,11 +19,3 @@ export default function Message() {
   )
 }
 ```
-
-### Contact
-
-* Portfolio: [Click Here](https://agustinbn.vercel.app)
-* Email: bianchiagus6@gmail.com
-* Local Time: GMT -3
-
-[Twitter](https://twitter.com/agustinbn\_)
